@@ -1,0 +1,15 @@
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.csproj.AssemblyReference.cache
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\MainWindow.g.cs
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\App.g.cs
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32_MarkupCompile.cache
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32_MarkupCompile.lref
+C:\Users\sasha_uphkss1\source\repos\32\32\bin\Debug\32.exe.config
+C:\Users\sasha_uphkss1\source\repos\32\32\bin\Debug\32.exe
+C:\Users\sasha_uphkss1\source\repos\32\32\bin\Debug\32.pdb
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\MainWindow.baml
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.g.resources
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\_32.Properties.Resources.resources
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.csproj.GenerateResource.cache
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.csproj.CoreCompileInputs.cache
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.exe
+C:\Users\sasha_uphkss1\source\repos\32\32\obj\Debug\32.pdb
